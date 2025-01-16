@@ -1,0 +1,10 @@
+File ----> Pref ----> Set ------> Your path of PDB protein
+File -----> Read Molecule --------> choose your protein
+Select -------> Select String -------> Chain ---------> Choose chain to be removed --------> press add ----------> dismiss
+Edit -------------> Delete ----------> Delete selected atoms
+Select ----------> Select string -----------> 'Erase your Selected chain from chain section to do this step' ---------> Atom--------> Choose hetatm ---------> add ---------> dismiss
+Edit -------------> Delete ----------> Delete selected atoms
+Edit ---------> Delete water
+Edit ---------> Add hydrogen -----------> Polar only ---------> ok
+Edit ---------> Add charges ------------> Kolamann charges
+Grid ---------> Macromolecules ---------> choose -----------> choose your protein --------> Save as pdbqt.
